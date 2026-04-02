@@ -1,0 +1,20 @@
+# --- Python (Lo más importante) ---
+.venv/
+venv/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- IDEs (Limpia PyCharm y VS Code) ---
+.idea/
+.vscode/
+*.iml
+*.xml
+/shelf/
+/workspace.xml
+
+# --- Sistema y otros ---
+.DS_Store
+Thumbs.db
+requirements.txt.user

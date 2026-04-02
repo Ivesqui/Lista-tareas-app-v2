@@ -1,0 +1,28 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# --- Editores e IDEs (Aquí eliminamos los XML) ---
+.vscode/
+*.swp
+*.xml
+.DS_Store
+.idea/
+*.iml
+
+# --- Librerías externas ---
+# No subimos la carpeta de tkcalendar si se instaló localmente
+site-packages/
+
+# --- Distribución / Empaquetado ---
+dist/
+build/
+*.spec
+
+# --- Sistema ---
+.DS_Store
+Thumbs.db
