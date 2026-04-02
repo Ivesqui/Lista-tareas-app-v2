@@ -1,4 +1,4 @@
-# Gestor de Tareas Pro (Semana 16) - Programación Orientada a Objetos
+# Gestor de Tareas Version 2.0 (Semana 16) - Programación Orientada a Objetos
 
 Este proyecto consiste en una aplicación de escritorio avanzada para la gestión de tareas, desarrollada como parte de la asignatura de **Programación Orientada a Objetos** en la **Universidad Estatal Amazónica**. 
 

@@ -37,7 +37,7 @@ class PrincipalView:
         """Define la jerarquía de todos los widgets y su disposición en la ventana."""
 
         # 1. TÍTULO PRINCIPAL
-        tk.Label(self.root, text="Gestor de Tareas Pro", font=("Arial", 16, "bold")).pack(pady=10)
+        tk.Label(self.root, text="Gestor de Tareas 2.0", font=("Arial", 16, "bold")).pack(pady=10)
 
         # 2. --- SECCIÓN DE FILTROS Y BÚSQUEDA ---
         # Usamos un LabelFrame para agrupar visualmente las opciones de filtrado
